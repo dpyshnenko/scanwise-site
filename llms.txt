@@ -1,0 +1,11 @@
+# Honto
+
+> Honto is a free food and cosmetics ingredient scanner for iPhone. Scan a barcode or photograph the ingredients to get a 0–100 health score for nearly 700,000 products, with every additive and ingredient explained using EFSA, IARC and SCCS science.
+
+Honto (iOS) scores packaged food and cosmetics from 0 to 100 and shows every point added or taken away, with the source behind it. Scan a barcode, or photograph an ingredient list when a product has no barcode. Scores adapt to the allergens, diet and sensitivities you set. No ads and no brand money. Core scanning is free; Honto Plus is an optional subscription that lifts daily limits on AI label reads, AI notes and comparison verdicts.
+
+## Links
+
+- [Honto on the App Store](https://apps.apple.com/app/id6794923898): download for iPhone
+- [Food additive directory](https://dpyshnenko.github.io/scanwise-site/additives/): 587 E-numbers with plain-language verdicts and links to EFSA, IARC and peer-reviewed evidence
+- [Privacy policy](https://clevermetrics.dev/honto-scanner/privacy)
